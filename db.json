@@ -28,14 +28,16 @@
       "ticker": "AMZN",
       "name": "Amazon",
       "type": "Tech",
-      "price": 2013.04
+      "price": 2013.04,
+      "portfolio": true
     },
     {
       "id": 5,
       "ticker": "V",
       "name": "Visa",
       "type": "Finance",
-      "price": 150.05
+      "price": 150.05,
+      "portfolio": true
     },
     {
       "id": 6,
@@ -56,21 +58,24 @@
       "ticker": "C",
       "name": "Citi Bank",
       "type": "Finance",
-      "price": 72.94
+      "price": 72.94,
+      "portfolio": true
     },
     {
       "id": 9,
       "ticker": "NKE",
       "name": "Nike",
       "type": "Sportswear",
-      "price": 84.56
+      "price": 84.56,
+      "portfolio": true
     },
     {
       "id": 10,
       "ticker": "UAA",
       "name": "Under Armour",
       "type": "Sportswear",
-      "price": 21.07
+      "price": 21.07,
+      "portfolio": true
     }
   ]
 }

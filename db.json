@@ -5,14 +5,16 @@
       "ticker": "GOOG",
       "name": "Google",
       "type": "Tech",
-      "price": 1194.8
+      "price": 1194.8,
+      "portfolio": true
     },
     {
       "id": 2,
       "ticker": "FB",
       "name": "Facebook",
       "type": "Tech",
-      "price": 168.85
+      "price": 168.85,
+      "portfolio": true
     },
     {
       "id": 3,
